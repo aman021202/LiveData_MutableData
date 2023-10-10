@@ -1,0 +1,4 @@
+About Live data & Mutable Live Data
+Live data is the data holder class but the data can only be observed
+And also this is the Lifecycle aware i.e. it will reach to the only components which are in their active state 
+We have two kinds of Live Data i.e. 1. Mutable Live Data = Data that we can   change                              2. Live Data = we cannot change the Data of Live Data   
